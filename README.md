@@ -7,3 +7,7 @@ This is the Git Repository of the "Maven: The Definitive Guide (English)" book a
 ### Links to Code Samples
 
 Chapter 4: Customizing a Maven Project - [ch-custom](/mvnbook-examples/ch-custom)
+
+### Other Maven books repos
+
+* [m2eclipse-book](https://github.com/sonatype/m2eclipse-book)
